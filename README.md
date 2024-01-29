@@ -5,7 +5,7 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in Sofia ,Bulgaria
-* 🚀 Specializing in JavaScript with React and Node.js, I am most passionate about crafting intuitive and efficient Front-End solutions. While I thrive in the realm of user interfaces, I'm also eager to delve into Back-End development to create holistic, impactful applications. 
+* 🚀 Specializing in JavaScript, ReactJS and Node.js, I am most passionate about crafting intuitive and efficient Front-End solutions. While I thrive in the realm of user interfaces, I'm also eager to delve into Back-End development to create holistic, impactful applications. 
 * 🌐My vision extends beyond code; I am driven to develop applications that empower users to lead more productive, healthier, and wealthier lives.
 
 ### Skills
